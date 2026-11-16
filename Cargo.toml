@@ -5,3 +5,6 @@ edition = "2024"
 
 [dependencies]
 eframe = "0.37.0"
+libc = "0.2.191"
+rfd = "0.18.0"
+ 
